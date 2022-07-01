@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# Real Estate Template Website
 
-## Available Scripts
-
-In the project directory, you can run:
+The website using react and tailwind CSS
 
 ### `npm start`
 
