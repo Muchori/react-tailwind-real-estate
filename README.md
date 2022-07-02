@@ -1,6 +1,6 @@
 # Real Estate Template Website
 
-The website using react and tailwind CSS
+The website uses ReactJS and Tailwind CSS
 
 ### `npm start`
 
