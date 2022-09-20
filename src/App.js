@@ -27,7 +27,9 @@ function App() {
           <Routes>
             <Route path='/' />
           </Routes>
+    
         </div>
+    
       </Router>
     </>
   )
