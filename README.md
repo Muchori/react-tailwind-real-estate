@@ -1,4 +1,4 @@
-# Real Estate Template Website
+## Real Estate Template Website
 
 The website uses ReactJS and Tailwind CSS
 
